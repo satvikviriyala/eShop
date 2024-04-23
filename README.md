@@ -17,11 +17,11 @@ This is the Home Page of The eShop App
 
 <img src="https://github.com/satvikviriyala/eShop/assets/94317660/970036a3-09d9-4091-a8cc-7c27d3c918ee" width="360" height="780" alt="Home">
 
-<img src="https://github.com/satvikviriyala/eShop/assets/94317660/78209806-951f-4a2a-aeee-1c99b735959a" width="360" height="780" alt="Home">
+
 
 This is the Category View of the APP
 
-
+<img src="https://github.com/satvikviriyala/eShop/assets/94317660/78209806-951f-4a2a-aeee-1c99b735959a" width="360" height="780" alt="Home">
 
 This is the Notifications View of the APP
 
