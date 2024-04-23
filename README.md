@@ -10,7 +10,8 @@ This is the App icon
 
 This is the Home Page of The eShop App
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-23 at 21 07 09](https://github.com/satvikviriyala/eShop/assets/94317660/8c535af3-05c1-4258-9ea1-045d1de41c6d)
+
+<img src="https://github.com/satvikviriyala/eShop/assets/94317660/8c535af3-05c1-4258-9ea1-045d1de41c6d" width="180" height="390" alt="Home">
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-23 at 21 07 24](https://github.com/satvikviriyala/eShop/assets/94317660/38c38162-a6aa-4e08-b6aa-416166d9486b)
 
