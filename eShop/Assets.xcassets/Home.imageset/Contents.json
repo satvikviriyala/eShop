@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Gemini_Generated_Image_h75669h75669h756.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Gemini_Generated_Image_h75669h75669h756@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Gemini_Generated_Image_h75669h75669h756@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
