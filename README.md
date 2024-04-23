@@ -2,8 +2,10 @@
 eShop is a eCommerce App for purchasing different items 
 
 
-This is the App iCon
-<img src="https://github.com/satvikviriyala/eShop/assets/94317660/ab0e0023-b817-4ef7-ae34-2a8bf2bbb877" width="200" alt="eShop app icon">
+This is the App icon
+
+
+<img src="https://github.com/satvikviriyala/eShop/assets/94317660/ab0e0023-b817-4ef7-ae34-2a8bf2bbb877" width="200" height="200 alt="eShop app icon">
 
 
 This is the Home Page of The eShop App
